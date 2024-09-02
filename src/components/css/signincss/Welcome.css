@@ -1,0 +1,15 @@
+.welcome-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .welcome-message {
+    font-size: 24px;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .username {
+    color: #28a745;
+  }
+  
